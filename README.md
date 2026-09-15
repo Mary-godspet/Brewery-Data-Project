@@ -136,7 +136,7 @@ Key metrics include:\
 
 Dashboard Preview
 
-<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/961c7434-fc10-4265-b19c-4121b0ee34e9" />\
+<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/961c7434-fc10-4265-b19c-4121b0ee34e9" />
 
 
 <img width="1837" height="821" alt="Image" src="https://github.com/user-attachments/assets/671189c5-80f9-4a5a-b590-6cf968525eb0" />
