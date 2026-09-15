@@ -1,23 +1,19 @@
-# Brewery-Data-Project
-This Project is aimed at exploring sales performance, profitability, product performance, and business trend
+
 # Brewery Data project
 
 This project helps the business evaluate its sales performance, identify revenue and profit trends across different West African countries, regions, years and months. 
 
-The project focuses on identifying critical factors influencing sales and profitability, optimizing pricing, production and distribution strategies, and providing data-driven recommendations for business decision making.
+The project focuses on identifying critical factors that influence sales and profitability, optimising pricing, production and distribution strategies, and providing data-driven recommendations for business decision-making.
 
 # Business Questions
-1. which brands generated the highest revenue and profit?
-2. which brands have the strongest profit margin?
-3. what year generated the highest revenue and profit?
-4. which Sales Rep contributed the most profit?
-5. which months generated the highest and lowest profit?
-6. How has profit changed between 2017 and 2019?
-7. which countries and regions performed best?
-8. Does higher revenue always translate into higher cost?
-9. which product contributed most to overall profitability?
-10. what factors could explain changes in profitability overtime?
-11. what actions can management take to improve business performance?
+1. Which brands generated the highest revenue and profit?
+2. Which brands have the strongest profit margin?
+3. What year generated the highest revenue and profit?
+4. How has profit changed between 2017 and 2019?
+5. Does higher revenue always translate into higher cost?
+6. Which product contributed most to overall profitability?
+7. What factors could explain changes in profitability over time?
+8. What actions can management take to improve business performance?
 
 # Dataset
 # Column
@@ -65,7 +61,7 @@ Southwest\
 Nothcentral
 
 # Data Cleaning & Preparation
-The following steps were taken the clean and prepare the data for analysis.
+The following steps were taken to clean and prepare the data for analysis.
 1. Open power query editor in Excel
 2. Load data into power query
 3. Transform my data by checking for missing, duplicates, and inconsistent values
@@ -109,10 +105,10 @@ Brands were compared based on:\
 . Cost\
 . Profit Margin
 
-This helps itdentify high-performing and underperforming brands
+This helps identify high-performing and underperforming brands
 
 # 4. Sales Representative Performance
-Sales Reps were eveluated based on their contribution to:\
+Sales Reps were evaluated based on their contribution to:\
 . Revenue\
 . Profit\
 . Quantity Sold
@@ -124,7 +120,7 @@ Monthly, Quarterly, and Yearly trends were analysed to identify:\
 . Profit growth or decline\
 . Peak-performing periods\
 . Low-performing periods\
-. Changes in revenue and profitability overtime
+. Changes in revenue and profitability over time
 
 # Dashboard
 Dashboards were designed to provide management with an interactive overview of business performance.
@@ -136,16 +132,13 @@ Key metrics include:\
 . Profit Margin\
 . Quantity Sold\
 . Brand Performance\
-. Sales Representative Performance\
-. Monthly Profit Trends\
 . Yearly Performance
 
 Dashboard Preview
 
-<img width="1836" height="812" alt="Image" src="https://github.com/user-attachments/assets/87af9749-72c0-4940-ae96-afa3b4452940" />\
+<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/961c7434-fc10-4265-b19c-4121b0ee34e9" />
 
-<img width="1844" height="812" alt="Image" src="https://github.com/user-attachments/assets/f92cab89-3600-4538-9ff9-ccfb36d45a31" />\
+<img width="1837" height="821" alt="Image" src="https://github.com/user-attachments/assets/671189c5-80f9-4a5a-b590-6cf968525eb0" />
 
-<img width="1859" height="828" alt="Image" src="https://github.com/user-attachments/assets/1a2240d7-a703-4491-aa2f-036e462fcc05" />\
 
-<img width="1842" height="825" alt="Image" src="https://github.com/user-attachments/assets/78666f87-e48d-4de9-90a4-eb7683314b9a" />
+
